@@ -10,7 +10,7 @@ tags:
   - Tech
 ---
 
-![The Tweet](/images/start/tweet.png)
+![The Tweet](/images/Start/tweet.png)
 
 ### Don't Put off your Dreams
 
