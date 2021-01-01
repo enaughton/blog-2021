@@ -6,12 +6,16 @@
       "external": false
     },
     {
+      "text": "Blog",
+      "url": "/archive"
+    },
+    {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/enaughton",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Contact Me!",
       "url": "/contact",
       "external": false
     }
