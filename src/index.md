@@ -1,16 +1,14 @@
 ---
 layout: home
 title: Hi I'm Emmett!
-metaDesc: ""
+metaDesc: ''
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ""
+socialImage: ''
 ---
-I am a full-stack JavaScript developer. I am a motivated developer, and builder. 
 
-A CoderDad, and Creative.\
-I have been building and creating online for the last four years while working full time at my local hospital and raising my family. It has been a wild journey.
+I am a full-stack JavaScript developer. I am a motivated developer, A CoderDad, and Creative.
 
-I am documenting my thoughts and journey here.
+Recent Projects: [Clause](http://clause.io/)
 
 Follow me on Twitter! [Here](https://twitter.com/EmmettNaughton)
