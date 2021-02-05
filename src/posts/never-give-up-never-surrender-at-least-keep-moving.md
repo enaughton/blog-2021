@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: "Never Give Up, Never Surrender (at least keep moving) "
 date: 2021-02-05T23:30:59.984Z
+tags:
+  - Motivation
 ---
 
 
