@@ -5,16 +5,16 @@ date: 2021-03-24T01:25:42.140Z
 tags:
   - Technical
 ---
-Most front end projects can be hosted for free online, using something like Github Pages or Netlify, or say a Codepen. Now a full stack application with a database and/or API makes things a little more complicated. 
+Most front-end projects can be hosted for free online, using something like Github Pages or Netlify. Now a full-stack application with a database or an API makes things more complicated.
 
-This project was finished a year ago. Why is it just now getting put out for the world to see? A lot of reasons but the main one is there isn’t a striaght forward solution to get the specific stack hosted. 
+I finished this project a year ago. Why has it taken this long to get shared? There is not a straightforward solution to hosting this type of project. 
 
-The stack is a React front-end, with a custom built REST API with Express using Sequelize ORM to use the SQLite3 database.
+It has a React front-end, with a custom-built REST API with Express using Sequelize ORM to use SQLite3 for the database.
 
-The solution I came up with was to host the REST API and database on Glitch.com, and the React front-end on Netlify. 
+The solution I came up with was to host the REST API and database on Glitch.com. Host the React front-end on Netlify.
 
-Link to Project: <!--StartFragment-->
+Link to Project:
 
 [Course App (treehouse-course-app.netlify.app)](https://treehouse-course-app.netlify.app/)
 
-<!--EndFragment-->
+This project was a ton of fun to complete. It feels even better that I get to share it with you.
