@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Hosting a Full-Stack Application "
-date: 2021-03-24T01:25:42.140Z
+date: 2021-03-28T12:53:03.927Z
 tags:
   - Technical
 ---
