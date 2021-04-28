@@ -77,9 +77,18 @@ which will return another object of data, with only some of it being useful for 
   "following": 9,
   "created_at": "2017-01-04T01:54:16Z",
   "updated_at": "2021-04-25T14:01:38Z"
-
-
 ```
+
+Two API calls just to get needed data for the challenge. Not to mention that is two API calls just to get one user's data. But it just one way to complete the challenge.
+
+
+## GraphQL API 
+
+Now this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago. 
+
+I decided to use [Apollo Graphql](https://www.apollographql.com/). 
+
+Very Cool thing about GraphQL 
 
 
 
