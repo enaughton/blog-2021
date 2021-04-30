@@ -1,26 +1,26 @@
 ---
 layout: layouts/post.njk
-title: "Code Challenege: REST API VS GRAPHQL "
+title: 'Code Challenege: REST API VS GRAPHQL '
 date: 2021-04-30T15:03:28.997Z
 ---
+
 # Project: Build Github's User Search functionality
 
 ### You can use the REST API or the GraphQL API
 
-I did both! I built out the project using both, and now I am sharing what I have learned about   
+I did both! I built out the project using both, and now I am sharing what I have learned about
 
+First the REST API.
 
-First the REST API. 
-
-Pros: Very quick to get the Requests set up, and pretty neat code when using Hooks. 
-Cons: Multiple requests with a lot of data we don't need. 
+Pros: Very quick to get the Requests set up, and pretty neat code when using Hooks.
+Cons: Multiple requests with a lot of data we don't need.
 
 The Github API gives minimal data on the first request. Below is the initial
 response.
 
-```object 
+```
 0:
-avatar_url: "" 
+avatar_url: ""
 events_url: ""
 followers_url: ""
 following_url: ""
@@ -41,10 +41,10 @@ type: "User"
 url: ""
 ```
 
-After the initial response, you have to make another request to the users `https://api.github.com/users/{username} `
-which will return another object of data, with only some of it being useful for this challenge. 
+After the initial response, you have to make another request to the users `https://api.github.com/users/{username}`
+which will return another object of data, with only some of it being useful for this challenge.
 
-```object
+```
 "login": "",
   "id": {int},
   "node_id": "",
@@ -81,24 +81,21 @@ which will return another object of data, with only some of it being useful for 
 
 Two API calls just to get needed data for the challenge. Not to mention that is two API calls just to get one user's data. But it just one way to complete the challenge.
 
+## GraphQL API
 
-## GraphQL API 
-
-
-#### What is GraphQL? 
+#### What is GraphQL?
 
 [GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. - GraphQL Site](https://graphql.org/)
 
-Now, this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago. 
+Now, this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago.
 
-There are quite a few GraphQL Clients you can use, but I decided to use [Apollo Graphql](https://www.apollographql.com/). 
-
+There are quite a few GraphQL Clients you can use, but I decided to use [Apollo Graphql](https://www.apollographql.com/).
 
 The coolest thing for me is that once you write the query in GraphQL, you get all the data you need for whatever project you are working on, with just ONE API Call!
 
 The GraphQl Query looks like this.
 
-```code
+```
 
 
 const QUERY = gql`
@@ -132,14 +129,6 @@ const QUERY = gql`
   }
 `;
 
-```  
+```
 
 Pretty neat. I will be using GraphQL in the future.
-
-
-
-
-
-
-
-
