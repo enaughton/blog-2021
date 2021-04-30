@@ -41,7 +41,7 @@ type: "User"
 url: ""
 ```
 
-After the initial response, you have to make another request to `data.url`
+After the initial response, you have to make another request to the users `https://api.github.com/users/{username} `
 which will return another object of data, with only some of it being useful for this challenge. 
 
 ```object
@@ -134,7 +134,7 @@ const QUERY = gql`
 
 ```  
 
-Pretty neat. I will be using GraphQL in the future if the API for a project offers it. 
+Pretty neat. I will be using GraphQL in the future.
 
 
 
