@@ -13,9 +13,9 @@ I did both! I built out the project using both, and now I am sharing what I have
 First the REST API. 
 
 Pros: Very quick to get the Requests set up, and pretty neat code when using Hooks. 
-Cons: Multiple request with a lot of data we don't need. 
+Cons: Multiple requests with a lot of data we don't need. 
 
-The Github API gives minimal data on the first request. Below is the inital 
+The Github API gives minimal data on the first request. Below is the initial
 response.
 
 ```object 
@@ -41,7 +41,7 @@ type: "User"
 url: ""
 ```
 
-Then after the inital response, you have to make another request to `data.url`
+After the initial response, you have to make another request to `data.url`
 which will return another object of data, with only some of it being useful for this challenge. 
 
 ```object
@@ -89,12 +89,50 @@ Two API calls just to get needed data for the challenge. Not to mention that is 
 
 [GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. - GraphQL Site](https://graphql.org/)
 
-Now this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago. 
+Now, this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago. 
 
 There are quite a few GraphQL Clients you can use, but I decided to use [Apollo Graphql](https://www.apollographql.com/). 
 
 
 The coolest thing for me is that once you write the query in GraphQL, you get all the data you need for whatever project you are working on, with just ONE API Call!
+
+The GraphQl Query looks like this.
+
+```code
+
+
+const QUERY = gql`
+  query SearchUsers($queryString: String!, $count: Int!, $cursor: String) {
+    search(query: $queryString, type: USER, first: $count, after: $cursor) {
+      userCount
+      edges {
+        node {
+          ... on User {
+            id
+            login
+            avatarUrl
+            name
+            url
+            followers {
+              totalCount
+            }
+            starredRepositories {
+              totalCount
+            }
+          }
+        }
+      }
+      pageInfo {
+        hasNextPage
+        hasPreviousPage
+        endCursor
+        startCursor
+      }
+    }
+  }
+`;
+
+```  
 
 Pretty neat.  
 
