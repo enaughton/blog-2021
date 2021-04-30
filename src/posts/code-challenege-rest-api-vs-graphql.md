@@ -134,7 +134,8 @@ const QUERY = gql`
 
 ```  
 
-Pretty neat.  
+Pretty neat. I will be using GraphQL in the future if the API for a project offers it. 
+
 
 
 
