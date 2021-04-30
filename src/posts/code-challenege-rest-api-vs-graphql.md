@@ -84,11 +84,22 @@ Two API calls just to get needed data for the challenge. Not to mention that is 
 
 ## GraphQL API 
 
+
+#### What is GraphQL? 
+
+[GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. - GraphQL Site](https://graphql.org/)
+
 Now this was the first time I had worked with GraphQL other than going through the Gatsby Tutorials for Graphql a couple of years ago. 
 
-I decided to use [Apollo Graphql](https://www.apollographql.com/). 
+There are quite a few GraphQL Clients you can use, but I decided to use [Apollo Graphql](https://www.apollographql.com/). 
 
-Very Cool thing about GraphQL 
+
+The coolest thing for me is that once you write the query in GraphQL, you get all the data you need for whatever project you are working on, with just ONE API Call!
+
+Pretty neat.  
+
+
+
 
 
 
