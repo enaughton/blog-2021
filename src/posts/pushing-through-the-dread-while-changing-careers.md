@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Pushing through  the Dread, ( while Changing Careers)
+title: Pushing through  the Dread ( while Changing Careers)
 date: 2021-05-28T17:14:58.717Z
 tags:
   - Career
