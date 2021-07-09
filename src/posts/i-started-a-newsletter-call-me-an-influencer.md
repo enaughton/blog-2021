@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "I started a Newsletter! Call me an influencer "
+socialImage: /images/twitter_profile_image.png
 date: 2021-07-09T17:19:39.439Z
 tags:
   - CoderDads
