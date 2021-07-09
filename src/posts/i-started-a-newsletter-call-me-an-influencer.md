@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "I started a Newsletter! Call me an influencer "
 date: 2021-07-09T17:19:39.439Z
 tags:
-  - "#CoderDads"
+  - CoderDads
 ---
 # #CoderDads has started a newsletter! 
 
