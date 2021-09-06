@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "What If, we changed the world "
 date: 2021-09-06T17:03:21.438Z
 ---
-This is always been something that I've been thinking about since having kids. As a parent, seeing the world slowly starting to burn while you watch your kids playing at the park really makes you think about things. 
+This has always been something that I've been thinking about since having kids. As a parent, seeing the world slowly starting to burn while you watch your kids playing at the park really makes you think about things. 
 
 If enough wonderful people have children, and we collectively build communites and places for them to thrive. We can change the world. 
 
