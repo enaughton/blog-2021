@@ -20,6 +20,6 @@ I am pivoting to just get into tech. I am going to use my experience of working 
 
 --- 
 
-I have the experience and the drive to be in Tech. I know I belong there. 
+I have the experience and the drive to be in Tech. I belong there. 
 
 
