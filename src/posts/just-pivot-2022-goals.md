@@ -20,6 +20,8 @@ I am pivoting to just get into tech. I am going to use my experience of working 
 
 --- 
 
-I have the experience and the drive to be in Tech. I belong there. 
+I have the experience and the drive to be in Tech. I belong there. My 2022 goal is pivot!
+
+<iframe src="https://giphy.com/embed/UrbnbuU24p1zgyDMUH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
