@@ -31,7 +31,9 @@ I want to be a cheerleader for companies and businesses, and make sure their cus
 
 Talking with [Justin Jackson](https://twitter.com/mijustin), he mentioned that is how he got his first shot in tech. I think it is the way to go. I am willing to do whatever it takes and learn along the way. That first "Ya, we will give you a shot". This company will get one of the hardest working and dedicated people on their team. 
 
-I am a Team Player. I will make sure customers are delighted, and supported. I can also jump in on developing quick landing pages for events and or other coding issues. I love talking to builders as well, so jumping in a product meeting to walk through feedback from customers. 
+I am a Team Player. I will make sure customers are delighted, and supported. I can also jump in on developing quick landing pages for events and or other coding issues. I can host and moderate podcasts, events, and be very present when a customer has been struggling with the products. 
+
+I love talking to builders as well, so jumping in a product meeting to walk through feedback from customers. 
 
 
 
