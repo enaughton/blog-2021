@@ -24,12 +24,15 @@ I have the experience and the drive to be in Tech. I belong there. My 2022 goal 
 
 
 
-Every job I've ever had has been pretty customer facing. From being an Audio Visual Tech at a Teleconferencing company in Vermont, to being a Line-Cook, to working in factories (making sure I make the best product I can for the customer), being a janitor at my local hospital, and now working in the ER. Its always been about making sure customers were taken care and they enjoyed their experience. 
+Every job I've ever had has been pretty customer-facing. From being an Audio Visual Tech at a Teleconferencing Company in Vermont to being a Line-Coo to working in factories (making sure I make the best product I can for the customer), to being a janitor at my local hospital, and now working in the ER. Its always been about making sure customers were taken care of and they enjoyed their experience. 
 
 I want to be a cheerleader for companies and businesses, and make sure their customers are delighted to use their product(s). 
 
 
-Talking with [Justin Jackson](www.twitter.com/mijustin)
+Talking with [Justin Jackson](https://twitter.com/mijustin), he mentioned that is how he got his first shot in tech. I think it is the way to go. I am willing to do whatever it takes and learn along the way. That first "Ya, we will give you a shot". This company will get one of the hardest working and dedicated people on their team. 
+
+I am a Team Player. I will make sure customers are delighted, and supported. I can also jump in on developing quick landing pages for events and or other coding issues. I love talking to builders as well, so jumping in a product meeting to walk through feedback from customers. 
+
 
 
 
