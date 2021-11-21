@@ -13,15 +13,26 @@ But part of me feels like "Damn, this is the 4th year that I'm not in tech yet. 
 
 ---
 
-However, this won't stop me from continuing to show up and make lasting important relationships in the tech community until I am fulling in it. 
+However, this won't stop me from continuing to show up and make lasting important relationships in the tech community until I am full-time in it. 
 
-I am pivoting to just get into tech. I am going to use my experience of working in the Emergency Room, to customer support or success. 
+I am pivoting to just being into tech. I am going to use my experience of working in the Emergency Room, to customer support or success. 
 
 
 --- 
 
-I have the experience and the drive to be in Tech. I belong there. My 2022 goal is pivot!
+I have the experience and the drive to be in Tech. I belong there. My 2022 goal is to pivot!
 
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/UrbnbuU24p1zgyDMUH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
+Every job I've ever had has been pretty customer facing. From being an Audio Visual Tech at a Teleconferencing company in Vermont, to being a Line-Cook, to working in factories (making sure I make the best product I can for the customer), being a janitor at my local hospital, and now working in the ER. Its always been about making sure customers were taken care and they enjoyed their experience. 
+
+I want to be a cheerleader for companies and businesses, and make sure their customers are delighted to use their product(s). 
+
+
+Talking with [Justin Jackson](twitter.com/mijustin)
+
+
+
+
 
 
