@@ -29,7 +29,7 @@ Every job I've ever had has been pretty customer facing. From being an Audio Vis
 I want to be a cheerleader for companies and businesses, and make sure their customers are delighted to use their product(s). 
 
 
-Talking with [Justin Jackson](twitter.com/mijustin)
+Talking with [Justin Jackson](www.twitter.com/mijustin)
 
 
 
