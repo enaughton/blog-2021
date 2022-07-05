@@ -7,7 +7,7 @@ archiveButtonText: See all posts
 socialImage: /images/headshot_2020.jpeg
 ---
 
-I am a full-stack JavaScript developer. I am a motivated developer, A CoderDad, and Creative.
+I am a full-stack JavaScript developer. A CoderDad, and Creative.
 
 #CoderDads Newsletter: [Sign up for the Newsletter](https://sendfox.com/coderdads)
 
