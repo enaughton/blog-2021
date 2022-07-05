@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: One month at Luro
 date: 2022-07-05T13:43:46.866Z
-tags: []
+tags:
+  - Learning
 ---
 
 I often forget to reflect on things I've learned. This year as a whole has been a rollercoaster of lessons and growth. 
