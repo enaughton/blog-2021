@@ -49,7 +49,7 @@ No jumping around files, or moving to different parts of the file structure to f
 
 
 
-All in your stuff one file. You can arrange those 
+All in your stuff one file. You can arrange those however you like too! 
 
 
 
