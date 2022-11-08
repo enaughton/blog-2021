@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Some of things I've learned "
+title: "Some of the things I've learned "
 date: 2022-11-08T00:42:19.826Z
 tags:
   - Learning
