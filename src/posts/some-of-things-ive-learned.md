@@ -1,14 +1,13 @@
 ---
 layout: layouts/post.njk
 title: "Some of things I've learned "
-date: 2022-11-08T00:09:49.860Z
+date: 2022-11-08T00:42:19.826Z
 tags:
   - Learning
 ---
 I﻿f this year has taught me anything, things move fast. Over the last months, I have had incredible highs, and some pretty deep lows. I often forget to reflect on things I've learned, and the experiences I have had.
 
-B﻿ut here are some of things I've learned this year. 
-(There is so much more)
+B﻿ut here are some of things I've learned this year. (There is so much more)
 
 1. Vue
 2. Nuxt
@@ -18,7 +17,7 @@ B﻿ut here are some of things I've learned this year.
 6. Testing
 7. Local Db
 8. Document
-9﻿. Prototype
+9. P﻿rototype
 
 ## 1. [Vue](https://vuejs.org/)
 
@@ -106,5 +105,4 @@ B﻿uilding out small actionable pieces to share for demos, and feedback early o
 
 
 
-
-This year has been rollercoaster. I have gotten to work with so many wonderful people, and learned from really incredible mentors. 
+This year has been rollercoaster. I have gotten to work with so many wonderful people, and learned from really incredible mentors.
