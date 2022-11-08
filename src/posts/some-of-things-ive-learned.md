@@ -62,23 +62,19 @@ This was the big feature that I helped build out in my first week.
 
 Prisma made it very easy to build this out, just by adding one line of code in the ORM.
 
-The cool thing about Projects, is that it relates to so many other parts of the app. But it keeps them neatly organized specific to project.
-
-I also think the coolest feature of Projects our implementation of a CSS gradient stripe at the top of every Project Card. That is unique to every Project.
-
 ## 5. Page Crawlers
 
 I also learned about page crawlers and how to make adding pages from a crawled website to tdatabase.he
 
 Building out the views and templates for this feature was challenging because of all the moving parts.
 
-We have to crawl the URL for different pages, return those pages back to the user. Let the user select which pages they want to add.
+Crawl the URL for different pages, return those pages back to the user. Let the user select which pages they want to add.
 
-Take screenshots and make pages as featured. Then display all those pages on `/pages`
+Take screenshots then display all those pages. 
 
-This requires Loading states, and `v-if` statements to render the write view depending on state.
+This requires Loading states, and some other fun UI. 
 
-Then to make sure it all fit in modals and worked properly. Also on top of all of that was the CSS of Modals. Its a HUGE feature that I am super proud of.
+Then to make sure it all fit in modals and worked properly. Also on top of all of that was the CSS of Modals. This was a HUGE feature that I'm proud of. 
 
 ## 6. Testing
 
@@ -93,7 +89,7 @@ Testing if the images or icons would render on the wrong route or URL.
 
 This has made my productivity while working on the page crawler much faster. Being able to just clear the db table that I was working with, to quickly see changes in my code has been super helpful.
 
-Before I was having to spoof/fail `api` calls, or use `v-if` to spoof the UI.
+Before I was having to spoof/fail `api` calls. 
 
 ## 8. Document
 
@@ -102,7 +98,5 @@ Remembering what you built and what you worked on over a specific time is when t
 ## 9. Prototype
 
 B﻿uilding out small actionable pieces to share for demos, and feedback early on has been a major unlock for me. 
-
-
 
 This year has been rollercoaster. I have gotten to work with so many wonderful people, and learned from really incredible mentors.
