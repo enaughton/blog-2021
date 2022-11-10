@@ -3,8 +3,6 @@ layout: layouts/post.njk
 title: Making a Cover Letter in Klaviyo
 date: 2022-11-10T10:45:43.447Z
 ---
-![]()
-
 E﻿ver since working at Govalo, where I watched the team launch a Klaviyo intergration. My interest in email and how all of that works behind the scenes. With being on the job hunt again, I figured why not apply to Klaviyo but use the tools they provide for customers to help boost my application. 
 
 F﻿irst I built out my cover letter as an email template! 
@@ -16,3 +14,6 @@ F﻿irst I built out my cover letter as an email template!
 </iframe>
 
 A﻿nother incredibly powerful tool Klaviyo just launched is an SMS AI Copy tool. Which I used to build a text message style cover letter!
+[](/images/screen-shot-2022-11-10-at-6.11.53-am.png)
+
+![]()
