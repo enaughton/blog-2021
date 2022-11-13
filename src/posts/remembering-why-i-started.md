@@ -9,3 +9,4 @@ I﻿t got me thinking of my journey into tech and getting to work with people I 
 
 H﻿aving worked in an emergency room through a global pandemic, it has taught me that I can do anything. Especially in the tech world. 
 
+S﻿ure, its been a rollercoaster. Being able to reflect on the experience I have now working with incredible people, I know I will be an incredible asset to my next company. 
