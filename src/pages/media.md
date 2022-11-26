@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: "Media "
-permalink: "/media/index.html"
+permalink: "/media/"
 ---
 P﻿odcasts: [Gaelan Trombley show](https://gaelantrombley.podbean.com/e/tgts-episode-175-emmett-naughton/)
 
