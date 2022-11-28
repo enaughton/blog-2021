@@ -9,6 +9,6 @@ A﻿s we all this year has been a rollercoaster for many. But now I want to try 
 
 [Leave me a Voicemail](https://www.speakpipe.com/emmettnaughton)
 
-I﻿ really want to hear you! I will respond to your questions, or just whatever you send me. 
+I will respond to your questions and thoughts. This is to push me to possibly start a podcast, we will see what happens. 
 
 L﻿ets see what happens! 
