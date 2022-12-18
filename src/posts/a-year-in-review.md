@@ -1,9 +1,10 @@
 ---
 layout: layouts/post.njk
 title: A year in review!
+socialImage: /images/github-wrapped-1-.png
 date: 2022-12-18T02:39:39.125Z
 ---
-![github stats for 2022]( "Stats!")
+![](/images/github-wrapped-1.png)
 
 The year in review. Looking back at where I was even a year ago I have improved and grown so much.
 
