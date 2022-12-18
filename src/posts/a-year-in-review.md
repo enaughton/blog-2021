@@ -1,7 +1,9 @@
 ---
 layout: layouts/post.njk
-title: A year in review!
-socialImage: ""
+title: A year in review(2022
+metaTitle: A year in review(2022)
+metaDesc: "A look back at my year. "
+socialImage: /images/headshot_2020.jpeg
 date: 2022-12-18T15:04:10.955Z
 ---
 
