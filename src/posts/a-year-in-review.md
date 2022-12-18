@@ -1,42 +1,69 @@
 ---
 layout: layouts/post.njk
 title: A year in review!
-socialImage: /images/github-wrapped-1-.png
-date: 2022-12-18T02:39:39.125Z
+socialImage: ""
+date: 2022-12-18T15:04:10.955Z
 ---
 
-The year in review. Looking back at where I was even a year ago I have improved and grown so much.
 
-First off, I've got to work with incredibly smart and wonderful people. That is a HUGE plus, and made the hard parts of this year bareable. 
+First, I've got to work with wonderful people, which helped make the challenging parts of this year bearable. 
 
-I've was given the opporuntity twice this year to get in on some very cool companies building really interesting things.
+I got the opportunity twice this year to get in on some very cool companies building exciting products.
 
 # [Govalo](https://govalo.com)
+I got to work on making online gifting better and more accessible to brands, and who doesn't like getting gifts?
 
-Getting to work on making online gifting better and more accesible to brands. Absolutely awesome, who doesn't like getting gifts?
+- Built features to help get over 500 merchants to use Govalo as their gifting platform. 
+- Learned Typescript
+- Built an email redemption app
+- Contextual Savebar
+- A lot of customizations 
+- Knowing things I built helped merchants pad their stats on BFCM
+-  Over 270 contributions from Jan-May 2022 
 
-* Learned Typescript
-* Built an email redeem app
-* Contextual Savebar
-* A lot of customizations 
-* Knowing things I built helped merchants padd their stats on BFCM
-* Over 270 contributions from Jan-May 2022 
-*﻿ Laid off in May 
+#  [Luro](https://luroapp.com)
+I worked with an incredible group. 
+- Over 319 contributions 
+- Learned Vue/Nuxt
+- Learned Prisma
+- Built multiple features
+- Leveled up my UI skills
 
-# [Luro](https://luroapp.com)
 
-Worked with incredible people.I truely looked up too. Very excited about what the team at Luro is building. 
+Here are some stats! 
 
-* Over 319 contributions 
-* Learned Vue
-* Learned Nuxt
-* Learned Prisma
-* Built multiple features
-* Leveled up my UI skills
-*﻿ Laid of in October
-
-A solid year. Here are some stats. 
 ![](/images/github-wrapped-1-.png)
+
+Those were just professional achievements. 
+Here are the things that happened too.
+
+## [#CoderDads](https://coderdads.carrd.co)
+
+- Broke 250 Dads
+- Saw many Dads get their first tech jobs. 
+- Homes bought
+
+Very thankful for this community that has watched me ride the tidal waves of moving from a busy ER job to a tech job. CoderDads helped me through 2 layoffs this year.  
+
+I was on some podcasts/live streams this year! If you have a podcast, I would love to come on and share my story. 
+
+##  Podcasts:
+
+[Gaelan Trombley show](https://gaelantrombley.podbean.com/e/tgts-episode-175-emmett-naughton/) (Last year, but close enough)
+
+## Youtube:
+
+[Guidance Counselor 2.0](https://www.youtube.com/watch?v=NO7v524_Qdc&t=1s&ab_channel=TaylorDesseyn)
+
+[Janitor to Software Engineer Roadmap with Emmett Naughton](https://www.youtube.com/watch?v=f0p5_2PIIcQ&ab_channel=NickTaylor)
+
+
+It's been a wild year.
+I am looking for my next adventure. I am working on a few personal projects now. 
+I am going into the New Year rested and ready to be an asset to my next company. 
+
+
+
 
 
 
