@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: A year in review(2022)
+title: A year in review (2022)
 metaTitle: A year in review(2022)
 metaDesc: "A look back at my year. "
 socialImage: /images/headshot_2020.jpeg
