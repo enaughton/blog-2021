@@ -4,7 +4,6 @@ title: A year in review!
 socialImage: /images/github-wrapped-1-.png
 date: 2022-12-18T02:39:39.125Z
 ---
-![](/images/github-wrapped-1.png)
 
 The year in review. Looking back at where I was even a year ago I have improved and grown so much.
 
@@ -22,6 +21,7 @@ Getting to work on making online gifting better and more accesible to brands. Ab
 * A lot of customizations 
 * Knowing things I built helped merchants padd their stats on BFCM
 * Over 270 contributions from Jan-May 2022 
+*﻿ Laid off in May 
 
 # [Luro](https://luroapp.com)
 
@@ -32,6 +32,11 @@ Worked with incredible people.I truely looked up too. Very excited about what th
 * Learned Nuxt
 * Learned Prisma
 * Built multiple features
-* Leveled up my UI skills 
+* Leveled up my UI skills
+*﻿ Laid of in October
 
-A solid year. Here are some stats!
+A solid year. Here are some stats. 
+![](/images/github-wrapped-1-.png)
+
+
+
