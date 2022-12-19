@@ -21,7 +21,7 @@ I got to work on making online gifting better and more accessible to brands, and
 - Built an email redemption app
 - Contextual Savebar
 - A lot of customizations 
-- Knowing things I built helped merchants pad their stats on BFCM
+- Knowing things I built helped merchants pad their stats on Black Friday/Cyber Monday (BFCM)
 -  Over 270 contributions from Jan-May 2022 
 
 #  [Luro](https://luroapp.com)
