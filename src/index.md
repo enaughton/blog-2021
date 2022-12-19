@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Hi I'm Emmett!!!!
+title: Emmett
+metaTitle: Welcome to Emmett's blog
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
