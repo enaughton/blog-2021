@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Emmett
+title: Emmett's Blog
 metaTitle: Welcome to Emmett's blog
 metaDesc: ""
 postsHeading: Latest posts
