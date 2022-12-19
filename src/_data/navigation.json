@@ -18,6 +18,10 @@
       "text": "Contact Me!",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Media",
+      "url": "/media"
     }
   ]
 }
