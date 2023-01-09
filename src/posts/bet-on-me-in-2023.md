@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Bet on me in 2023
+metaDesc: ""
+socialImage: /images/headshot_2020.jpeg
 date: 2023-01-09T17:09:51.470Z
 tags:
   - Jobs
