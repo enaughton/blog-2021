@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "My child wants me back to work. "
+title: "What my kid wants to get me for my birthday. "
 socialImage: /images/dad-life_a5matb.jpg
 date: 2023-01-12T15:36:12.741Z
 ---
