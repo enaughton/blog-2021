@@ -5,7 +5,7 @@ socialImage: /images/dad-life_a5matb.jpg
 date: 2023-01-12T15:36:12.741Z
 ---
 
-Last night after dinner, my wife texts me from upstairs and says our oldest child told her what he was going to get my for my birthday. 
+Last night after dinner, my wife texts me from upstairs and says our oldest child told her what he was going to get me for my birthday. 
 
 Nearly put me to tears, 
 
