@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "What my kid wants to get me for my birthday. "
+title: What my kid wants to get me for my birthday
 socialImage: /images/dad-life_a5matb.jpg
 date: 2023-01-12T15:55:33.841Z
 ---
