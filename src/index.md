@@ -12,7 +12,7 @@ I am a full-stack JavaScript developer.
 
 Emmett is a software engineer with over five years of experience who loves building incredible user experiences. He started in the world of eCommerce — working with organizations such as Govalo, the eCommerce gifting solution, having worked with startups and shop merchants to bring their products online.
 
-I am looking for his next opportunity as a developer, or solutions engineer with a collaborative, remote team. am
+I am looking for my next opportunity as a developer, or solutions engineer with a collaborative, remote team.
 
 H﻿ere are three recent projects
 
