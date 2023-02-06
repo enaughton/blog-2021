@@ -16,11 +16,13 @@ I am looking for my next opportunity as a developer, or solutions engineer with 
 
 H﻿ere are three recent projects
 
-1﻿. Video game character job board: https://video-game-job-board.netlify.app/
+1﻿. Video game character job board - https://video-game-job-board.netlify.app/ 
 
-2﻿. Hire Emmettx landing Page: https://www.hireemmett.work/
+2﻿. Course App - https://emmetts-course-app.netlify.app/
 
-3﻿. Flickr Search App: https://flickr-search-en.netlify.app/
+3﻿. Flickr Search App - https://flickr-search-en.netlify.app/
+
+
 
 
 ﻿ 
