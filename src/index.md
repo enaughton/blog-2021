@@ -23,6 +23,9 @@ H﻿ere are three recent projects
 3﻿. Flickr Search App - https://flickr-search-en.netlify.app/
 
 
+G﻿et in touch with me here: [contact](/contact)
+
+
 
 
 ﻿ 
