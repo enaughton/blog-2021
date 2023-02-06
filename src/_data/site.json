@@ -1,12 +1,12 @@
 {
   "showThemeCredit": false,
   "name": "Emmett Naughton",
-  "shortDesc": "Co-Creator of #CoderDads and Developer",
+  "shortDesc": "Looking for new opportunities",
   "url": "https://emmettnaughton.com/",
   "authorEmail": "enaughton5@gmail.com",
   "authorHandle": "@EmmettNaughton",
   "authorName": "Emmett Naughton",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/Logo.png",
   "maxPostsPerPage": 5
