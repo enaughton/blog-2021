@@ -14,4 +14,4 @@ This project is shipped and hosted in a very strange way. The Database uses SQLi
 
 
 
-Follow along while I rebuild this application using Supabase, Prisma, Vue, and Tailwind.
+Follow along while I rebuild this application using Supabase, Prisma, Next.js, and Tailwind CSS.
