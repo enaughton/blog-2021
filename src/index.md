@@ -1,18 +1,16 @@
 ---
 layout: home
-title: I'm looking for new opportunities
+title: "Welcome Friend. "
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: /images/headshot_2020.jpeg
 ---
+Co-Parent of Coder_Dads
 
-I am a full-stack JavaScript developer. 
+Developer, and Tech Dork.
 
-Emmett is a software engineer with over five years of experience who loves building incredible user experiences. He started in the world of eCommerce — working with organizations such as Govalo, the eCommerce gifting solution, having worked with startups and shop merchants to bring their products online.
-
-I am looking for my next opportunity as a developer, or solutions engineer with a collaborative, remote team.
 
 H﻿ere are three recent projects
 
