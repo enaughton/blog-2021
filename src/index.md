@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: "Welcome Friend. "
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
