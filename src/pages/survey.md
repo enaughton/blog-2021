@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Survey
-permalink: /survery/index.html
+permalink: /survey/index.html
 ---
 <html>
 <h1>Hello, welcome to the survery</h1>
