@@ -10,9 +10,9 @@
       "url": "/archive"
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/enaughton",
-      "external": true
+      "text": "Survey",
+      "url": "/survey",
+      "external": false
     },
     {
       "text": "Contact Me!",
