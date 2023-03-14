@@ -21,7 +21,6 @@ window.Kno = {
 		lifetime_orders: 2
 	    },
 order: { 
-		platform: 'CUSTOM',
                 id: '1234567892', 
 		total_price: 1000,
 		currency: '',
