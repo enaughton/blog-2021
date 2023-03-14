@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Survey
 ---
 <html>
-<h1>Hello, welcome to the survery</>
+<h1>Hello, welcome to the survery</h1>
 
 <script defer>
 
