@@ -3,16 +3,7 @@ layout: layouts/page.njk
 title: Survey
 ---
 <html>
-
-<div style="padding:50px;text-align:center">
-
-<h1>This is blank. Open in a code editor to see the code.</h1>
-
-<h2>If you replace the kno_id and script with your own script the survey will show on this screen.</h2>
-
-<h3>Email hello@knocommerce.com for support.</h3>
-
-</div>
+<h1>Hello, welcome to the survery</>
 
 <script defer>
 
@@ -60,11 +51,11 @@ selector: 'div#example_element_for_insert' // required. The element you want to 
 
 };
 
-/* Kno Custom Integration
+/\* Kno Custom Integration
 
-\* all available fields
+\\* all available fields
 
-\* must be snake_case
+\\* must be snake_case
 
 {
 
@@ -184,7 +175,7 @@ selector: string,
 
 }
 
-\*/
+\\*/
 
 
 
