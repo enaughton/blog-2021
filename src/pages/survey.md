@@ -21,12 +21,12 @@ order: {
     id: '1234567892', 
 		total_price: 1000,
 		currency: '',
-			},
+	},
 survey : { 
 	        id='824b9cec-1bf6-457b-9a58-6a3888fcdeaf', 		
 	        selector: 'div#example_element_for_insert' 
 	}
-}
+};
 </script>
 <div style="padding:50px;
             display:flex;
