@@ -28,7 +28,7 @@ order: {
 		currency: '',
 			},
 survey : { 
-					
+	        id='824b9cec-1bf6-457b-9a58-6a3888fcdeaf', 		
 	        selector: 'div#example_element_for_insert' 
 	}
 }
