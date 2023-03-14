@@ -4,16 +4,11 @@ title: Survey
 permalink: /survey/index.html
 ---
 <html>
-<div style="padding:50px;
-            display:flex;
-            justify-content:center">
-  <div id="example_element_for_insert"></div>
-</div>
 <script defer>
 window.Kno = { 
  kno_id: 'B0F38NN-60F4SAJ-QY8ZKT9-16ZHSAD',
  customer: { 
-    platform: 'CUSTOM',
+               platform: 'CUSTOM',
 		shop: 'emmettnaughton.com', 
 		email: 'enaughton5@example.com', 
 		phone: '1234567894', 
@@ -33,6 +28,12 @@ survey : {
 	}
 }
 </script>
+<div style="padding:50px;
+            display:flex;
+            justify-content:center">
+  <div id="example_element_for_insert"></div>
+</div>
+
 
 <script src="https://www.knocdn.com/v1/embed.js?id=f33d093a-e0ba-4854-a121-a9963f0f9fad"></script>
 <div id="example_element_for_insert">There should be a survey here. </div>
