@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "First Draft #1: Being Ok with imperfect"
-date: 2023-03-08T21:34:35.413Z
+date: 2023-04-01T22:52:48.491Z
 ---
 This is something, I have wanted to try for awhile. Just like most of the things on my project list, the list grows with ideas but not many items get checked off. 
 
