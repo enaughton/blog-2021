@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "First Draft 3: Network "
+title: "First Draft #3: Network "
 date: 2023-04-03T23:52:18.761Z
 ---
 A lot of people seem to impressed with my dedication to get into tech. A lot of people got caught up in the "bootcamp kool-aid". The promise of 'Learn to Code: and get a 6 figure salary in just 6 months'. 
