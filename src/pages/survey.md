@@ -12,6 +12,7 @@ permalink: /survey/index.html
 		kno_id: 'B0F38NN-60F4SAJ-QY8ZKT9-16ZHSAD',
 		anonymous: true,
 		survey: {
+ ﻿                       id: '81122055-ee6f-4f31-98cb-bb64c7e5a6b6',
 			selector: 'div#example_element_for_insert'
 		}
 	};
