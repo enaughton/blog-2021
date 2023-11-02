@@ -2,11 +2,12 @@
 layout: layouts/page.njk
 title: "Media "
 permalink: /media/
-metaTitle: Nick Taylor
+metaTitle: ""
 ---
 ## Podcasts:
 
 [Gaelan Trombley show](https://gaelantrombley.podbean.com/e/tgts-episode-175-emmett-naughton/)
+
 [﻿2nd appearance on the Gaelan Trombley show](https://gaelantrombley.podbean.com/e/tgts-230-emmett-naughton/)
 
 ## Y﻿outube: 
