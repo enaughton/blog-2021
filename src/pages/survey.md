@@ -7,7 +7,7 @@ permalink: /survey/index.html
 <html>
 
 <div id="example_element_for_insert"></div>
-<script>
+<script defer>
 	window.Kno = {
 		kno_id: 'B0F38NN-60F4SAJ-QY8ZKT9-16ZHSAD',
 		anonymous: true,
