@@ -8,7 +8,7 @@ Last week was Spotify Wrapped week, and now there is a round of layoffs at Spoti
 
 Are there any cool songs you found this year? Please share!
 
-FOMO: This week [Future Commerce](https://futurecommerce.com) is hosting an **INCREDIBLE ** event in Miami part of Art Basel. 
+FOMO: This week [Future Commerce](https://futurecommerce.com) is hosting an ***INCREDIBLE*** event in Miami part of Art Basel. 
 Called [Muses](https://www.futurecommerce.com/muses)
 
 If you can make it, Tell Phillip I sent ya. 
