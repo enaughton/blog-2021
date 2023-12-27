@@ -12,3 +12,6 @@ G﻿uilty of not taking some of the mental load away, but will totally do the wo
 Y﻿esterday was clearing out the backyard of all the toys, and trash from the summer and getting it into the garage to get ready for trash day.
 
 T﻿his year I will try to do better to keep less mental load on my wife. Its the stuff we don't see that is the heaviest load. 
+
+
+T﻿hinking is often WAY harder than just doing. 
