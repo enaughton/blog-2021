@@ -7,3 +7,8 @@ I﻿ am forever the green dot (online). As somebody who is in small city USA, fi
 
 I﻿ tend to be very responsive even if its "after/before" hours of work. Sure that can be a sign of toxic hustle culture, but I genuinely enjoy what I do for work. I also view work as being able to free up time for others on the team so they can shine at what they do best. 
 
+T﻿here is probably a 95% chance I Have a laptop screen open within arms reach of me most days. 
+
+
+
+
