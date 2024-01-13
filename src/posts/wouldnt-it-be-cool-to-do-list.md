@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Wouldn't it be COOL TO-DO List
-date: 2024-01-13T01:51:35.421Z
+date: 2024-01-13T01:59:51.302Z
 ---
 These aren't a list of goals, that I'll reflect on in a year.
 
