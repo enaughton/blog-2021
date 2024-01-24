@@ -3,9 +3,8 @@ layout: layouts/post.njk
 title: Do you have a some time to talk right now... about a raise?
 date: 2024-01-24T01:16:34.623Z
 ---
-# Do you have some time to talk right now... about a raise?
 
-The first part of that title is what I saw on my phone this afternoon. Generally, thats not good news. Especially, coming from work. My jaw and neck locked up. 
+The first part of the title is what I saw on my phone this afternoon. Generally, thats not good news. Especially, coming from work. My jaw and neck locked up. 
 
 I drop what I was doing, and jump into the call. Finally, the second part of the message pops up on my phone.
 
