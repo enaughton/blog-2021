@@ -5,7 +5,7 @@ metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: /images/headshot_2020.jpeg
+socialImage: /images/dad-life_a5matb.jpg
 ---
 Co-Parent of Coder_Dads
 
