@@ -13,7 +13,7 @@ permalink: /leap-year-form/index.html
     <label for="email">Email:</label>
     <input type="email" id="email" name="email" required>
 </P
-    <label for="message">Interest:</label>
+    <label for="message">Interest/Questions:</label>
     <textarea id="message" name="message" required></textarea>
 </p>
     <button type="submit">Submit</button>
