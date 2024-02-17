@@ -4,7 +4,7 @@ title: Leap Year Mug Club Interest Form
 permalink: /leap-year-form/index.html
 ---
 
-<form action="/submit" method="POST">
+<form action="/submit" method="POST" data-netlify="true">
 <p>
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
@@ -13,7 +13,7 @@ permalink: /leap-year-form/index.html
     <label for="email">Email:</label>
     <input type="email" id="email" name="email" required>
 </P
-    <label for="message">Interest:</label>
+    <label for="message">Interest/Questions:</label>
     <textarea id="message" name="message" required></textarea>
 </p>
     <button type="submit">Submit</button>
