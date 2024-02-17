@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Leap Year Mug Club Interest Form
-permalink: /leap-year-form
+permalink: /leap-year-form/index.html
 ---
 
 <form action="/submit" method="POST">
