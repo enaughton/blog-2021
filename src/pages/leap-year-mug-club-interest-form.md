@@ -4,7 +4,7 @@ title: Leap Year Mug Club Interest Form
 permalink: /leap-year-form/index.html
 ---
 
-<form action="/submit" method="POST" data-netlify="true">
+<form name="leap year" method="POST" data-netlify="true">
 <p>
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
