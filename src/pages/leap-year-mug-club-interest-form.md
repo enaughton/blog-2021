@@ -1,5 +1,5 @@
 ---
-layout: layouts/leap-year-form.njk
+layout: layouts/contact.njk
 title: Leap Year Mug Club Interest Form
 permalink: /leap-year-form/index.html
 ---
