@@ -5,12 +5,12 @@ date: 2024-02-17T18:17:04.539Z
 ---
 February 29th.  Comes every 4 years. Gave me the idea to do something **BOLD** and **WILD**. 
 
-It started with a silly Twitter DM.
+It started with a silly Twitter DM.  
 
 `Sign up for our "Leap Day Coffee Club." Every 4 years you get a cup from us! $2.99/month` 
 
 Price: to be determined  
-Limit: 500
+Limit: 500 
 Delivery: February 2028
 
 Comes with monthly updates of the process of designing/sourcing/packaging. 
