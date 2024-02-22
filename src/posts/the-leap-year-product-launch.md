@@ -13,7 +13,7 @@ Price: to be determined
 Limit: 500 
 Delivery: February 2028
 
-Comes with monthly updates of the process of designing/sourcing/packaging. 
+Comes with monthly updates on the process of designing/sourcing/packaging. 
 
 Would love suggestions on price or other ideas. 
 
