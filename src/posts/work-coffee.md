@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Work Coffee
-date: 2024-02-25T13:24:00.730Z
+date: 2024-02-25T13:35:33.066Z
 ---
 Sure, a nice cup of coffee is an incredible gift. 
 
